@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Autosocial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-21 23:19+0100\n"
+"PO-Revision-Date: 2012-03-21 23:20+0100\n"
+"Last-Translator: Pau Capó <pau@capo.cat>\n"
+"Language-Team: Pau Capó <pau@capo.cat>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../help-twitter.php:25
+msgid "Go to <a href=\"https://dev.twitter.com/apps\">Twitter Developers</a>."
+msgstr "Anar a <a href=\"https://dev.twitter.com/apps\">Twitter Developers</a>."
+
+#: ../help-twitter.php:26
+#: ../help-twitter.php:33
+#: ../help-twitter.php:40
+#: ../help-twitter.php:47
+#: ../help-twitter.php:54
+#: ../settings.php:227
+#: ../settings.php:286
+#: ../settings.php:381
+#: ../help-facebook.php:26
+#: ../help-facebook.php:33
+#: ../help-facebook.php:40
+#: ../help-facebook.php:47
+#: ../help-facebook.php:54
+#: ../help-facebook.php:61
+msgid "Help"
+msgstr "Ajuda"
+
+#: ../help-twitter.php:32
+msgid "Create a new app with <strong>Website</strong> and <strong>Callback URL</strong> pointing to your website."
+msgstr "Crear una nova aplicació amb els camps <strong>Website</strong> i <strong>Callback URL</strong> apuntat al teu lloc web."
+
+#: ../help-twitter.php:39
+msgid "Change in <strong>Settings</strong> section the <strong>Application type</strong> to <strong>Read and write</strong>."
+msgstr "Canviar a la secció <strong>Settings</strong> el camp <strong>Application type</strong> al valor <strong>Read and write</strong>."
+
+#: ../help-twitter.php:46
+msgid "Create an <strong>access token</strong> in <strong>Details</strong> section."
+msgstr "Crear un <strong>access token</strong> a la secció <strong>Details</strong>."
+
+#: ../help-twitter.php:53
+msgid "Check your configuration and copy it in the fileds after this lines."
+msgstr "Comprovar la configuració i copiar en els camps de després d'aquestes línies."
+
+#: ../wp-autosocial.php:83
+msgid "Schedule"
+msgstr ""
+
+#: ../wp-autosocial.php:269
+msgid "Settings"
+msgstr "Opcions"
+
+#: ../wp-autosocial.php:298
+#: ../wp-autosocial.php:321
+msgid "Published on:"
+msgstr "Publicat el:"
+
+#: ../wp-autosocial.php:300
+#: ../wp-autosocial.php:323
+msgid "j F, Y @ G:i"
+msgstr "d-m-Y a les G:i"
+
+#: ../wp-autosocial.php:307
+#: ../wp-autosocial.php:330
+msgid "Send now"
+msgstr "Enviar ara"
+
+#: ../wp-autosocial.php:310
+#: ../wp-autosocial.php:333
+msgid "Publish first."
+msgstr "Primer l'has de publicar."
+
+#: ../help-bitly.php:25
+msgid "Go to <a href=\"http://bitly.com/a/your_api_key/\">Bit.ly API Key</a>."
+msgstr "Anar a <a href=\"http://bitly.com/a/your_api_key/\">Bit.ly API Key</a>."
+
+#: ../help-bitly.php:29
+msgid "Copy your username and API key in the fileds after this lines."
+msgstr "Copia el teu usuari i la teva clau API en els camps de després d'aquestes línies."
+
+#: ../settings.php:28
+msgid "Settings have been reset."
+msgstr "Les opcions han estat resetejades."
+
+#: ../settings.php:36
+msgid "Facebook connected successfully."
+msgstr "Connectat a Facebook correctament."
+
+#: ../settings.php:38
+msgid "Facebook not connected!"
+msgstr "No s'ha pogut connectar a Facebook!"
+
+#: ../settings.php:48
+msgid "Twitter connection tested."
+msgstr "Connexió a Twitter provada."
+
+#: ../settings.php:48
+#: ../settings.php:53
+#: ../settings.php:58
+msgid "Link"
+msgstr "Enllaç"
+
+#: ../settings.php:53
+msgid "Facebook connection tested."
+msgstr "Connexió a Facebook provada."
+
+#: ../settings.php:58
+msgid "Bit.ly connection tested."
+msgstr "Connexió a Bit.ly provada."
+
+#: ../settings.php:116
+msgid "Settings saved."
+msgstr "S'han desat les opcions."
+
+#: ../settings.php:150
+#: ../settings.php:339
+msgid "Get token!"
+msgstr "Obtenir el token!"
+
+#: ../settings.php:186
+msgid "Global Settings"
+msgstr "Opcions globals"
+
+#: ../settings.php:192
+msgid "Display WP-AutoSocial meta"
+msgstr "Mostra la meta de WP-Autosocial"
+
+#: ../settings.php:195
+msgid "<a href=\"./post-new.php\">Post page</a> metabox with information and sending options."
+msgstr "Metabox de la <a href=\"./post-new.php\">pàgina d'entrades</a> amb informació i opcions per enviar."
+
+#: ../settings.php:200
+msgid "Autopublish posts"
+msgstr "Autopublicar entrades"
+
+#: ../settings.php:203
+msgid "Publish posts automatically to Facebook and Twitter (future posts allowed)."
+msgstr "Publica automàticament les entrades a Facebook i Twitter (entrades futures permeses)."
+
+#: ../settings.php:208
+msgid "Post types"
+msgstr "Tipus"
+
+#: ../settings.php:234
+#: ../settings.php:293
+#: ../settings.php:388
+msgid "Enable"
+msgstr "Activar"
+
+#: ../settings.php:243
+#: ../settings.php:302
+msgid "Pattern"
+msgstr "Plantilla"
+
+#: ../settings.php:246
+#: ../settings.php:305
+msgid "Fields"
+msgstr "Camps"
+
+#: ../settings.php:273
+#: ../settings.php:369
+#: ../settings.php:409
+msgid "Test it!"
+msgstr "Provar-ho!"
+
+#: ../settings.php:275
+#: ../settings.php:371
+#: ../settings.php:411
+msgid "Configuration missing!"
+msgstr "Hi falta configuració!"
+
+#: ../settings.php:326
+msgid "Last update"
+msgstr "Darrera actualitació"
+
+#: ../settings.php:331
+msgid "Expires at"
+msgstr "Caduca"
+
+#: ../settings.php:347
+msgid "Destination"
+msgstr "Destí"
+
+#: ../settings.php:350
+msgid "My profile"
+msgstr "El meu perfil"
+
+#: ../settings.php:397
+msgid "Username"
+msgstr "Usuari"
+
+#: ../settings.php:419
+msgid "Save Changes"
+msgstr "Desa els canvis"
+
+#: ../settings.php:420
+msgid "Reset"
+msgstr "Reinicialitza"
+
+#: ../help-facebook.php:25
+msgid "Go to <a href=\"https://developers.facebook.com/apps\">Facebook Developers</a>."
+msgstr "Anar a <a href=\"https://developers.facebook.com/apps\">Facebook Developers</a>."
+
+#: ../help-facebook.php:32
+msgid "Create a new app."
+msgstr "Crear una nova aplicació."
+
+#: ../help-facebook.php:39
+msgid "Put your domain in <strong>App Domain</strong> field and <strong>Site URL</strong> (in <strong>Website</strong> section)."
+msgstr "Posar el teu domini als camps <strong>App Domain</strong> i <strong>Site URL</strong> (dins la secció <strong>Website</strong>)."
+
+#: ../help-facebook.php:46
+msgid "Copy the <strong>App ID</strong> and <strong>App Secret</strong> in the correct fields after this lines. Save configuration."
+msgstr "Copiar la <strong>App ID</strong> i el <strong>App Secret</strong> als camps posteriors a aquestes línies. Desar la configuració."
+
+#: ../help-facebook.php:53
+msgid "Get the token and Facebook ask you for permissions. Allow it."
+msgstr "Obtenir el token i Facebook et demanarà permís. Dona-li."
+
+#: ../help-facebook.php:60
+msgid "Now you can see your token in the readonly field and a select with your pages and your profile options."
+msgstr "Ara pots veure el teu token dins el camp de només lectura i un selector amb les opcions de les teves pàgines i el teu perfil."
+
